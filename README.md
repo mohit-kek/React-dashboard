@@ -1,4 +1,8 @@
-Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+
+## Live Demo
+
+[Live Demo Click Here 🚀🚀](https://react-syncfusion-dashboard-moh45.netlify.app/)
 
 
 ![image](https://user-images.githubusercontent.com/101042725/182043929-b4a67e82-9b0c-4899-97e6-ec7190e61b9f.png)
